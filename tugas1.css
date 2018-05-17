@@ -1,0 +1,85 @@
+	.container{
+		width: 100vh;
+		height: 100vh;
+		background-color: transparent;
+		display: flex;
+	}
+
+	.pink{
+		margin-left: 20px;
+		width: 350px;
+		height: 100vh;
+		background-color: pink;
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+	}
+	.box{
+		width: 300px;
+		height: 50px;
+		margin-top: 10px;
+		background-color: blue;
+		color: white;
+	}
+
+	.circle{
+		width: 250px;
+		height: 250px;
+		border-width: 0px;
+		border-color: transparent;
+		border-radius: 125px;
+		background-color: black;
+		color: white;
+		margin-top: 10px;
+		text-align: center;
+	}
+
+	.hijau{
+		height: 100vh;
+		background-color: lightgreen;
+		display: flex;
+		flex-direction: column;
+		justify-content: flex-start;
+	}
+
+	.ungu{
+		width: 300px;
+		height: 50px;
+		background-color: purple;
+		color: white;
+		margin: 20px;
+	}
+
+	.orange{
+		width: 100vh;
+		height: 350px;
+		background-color: orange;
+		margin-left: 20px;
+		margin-top: 20px;
+		margin-right: 0px;
+
+	}
+
+	.info{
+		margin-left: 20px;
+		background-color: transparent;
+		display: flex;
+		align-items: center;
+		flex-direction: row;
+		margin-top: 20px;
+		margin-left: 20px;
+	}
+	.biruterang{
+		width: 225px;
+		height: 150px;
+		background-color: lightblue;
+	}
+
+	.footer{
+		width: 100vh;
+		height: 50px;
+		background-color: grey;
+		margin-top: 20px;
+		margin-left: 20px;
+		color: white
+	}
